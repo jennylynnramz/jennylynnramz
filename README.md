@@ -1,7 +1,9 @@
 ### Hi there 👋, visitor # <img src="https://profile-counter.glitch.me/jennylynnramz/count.svg" />
 
-I am Jennifer and I have **worn many hats**.
-I am passionate about **data science**. You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/jennifer-ramsey/)
+I am Jennifer and I have **worn many hats**. I am passionate about **data science**.
+
+Here's my resume; all new and updated - [Jennifer Ramsey - Data Science - Resume.pdf](https://github.com/jennylynnramz/Resume/blob/master/Jennifer%20Ramsey%20-%20Data%20Science%20-%20Resume.pdf)
+You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/jennifer-ramsey/)
 
 
 * **Here's what I used to do -**
