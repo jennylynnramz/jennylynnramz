@@ -1,4 +1,9 @@
 ### Hi there 👋, visitor # <img src="https://profile-counter.glitch.me/jennylynnramz/count.svg" />
+📣 I am **actively seeking** full-time job opportunities in **data science**. Reach out to me on **[LinkedIn](https://www.linkedin.com/in/jennifer-ramsey/)** if you know any.
+
+
+
+* **About me:**
 
 I am Jennifer and I have **worn many hats**. I am passionate about **data science**.
 
@@ -7,14 +12,16 @@ Here's my resume; all new and updated - [Jennifer Ramsey - Data Science - Resume
 You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/jennifer-ramsey/)
 
 
-* **Here's what I used to do -**
+* **Here's what I used to do:**
+
 I have worked as:
   * operations at various companies,
   * taught students K-12 in [SSFUSD](https://www.ssfusd.org/),
   * worked in retail
 
 
-* **Here's what I've studied -**
+* **Here's what I've studied:**
+
   * I completed [Data Science Bootcamp](https://bootcamp.berkeley.edu/data/) from UC Berkeley Extension
   * I graduated from [SFSU](https://www.sfsu.edu/) with MA in Human Sexuality
   * I graduated from [SFSU](https://www.sfsu.edu/) with BA in Pyschology
