@@ -1,5 +1,5 @@
 ### Hi there 👋, visitor # <img src="https://profile-counter.glitch.me/jennylynnramz/count.svg" />
-📣 I am **actively seeking** full-time job opportunities in **data science**. Reach out to me on **[LinkedIn](https://www.linkedin.com/in/jennifer-ramsey/)** if you know any.
+📣 I am **actively seeking** full-time job opportunities in **data science**. **[Here](https://github.com/jennylynnramz/Resume/blob/master/Jennifer%20Ramsey%20-%20Data%20Science%20-%20Resume.pdf)** is my resume. Reach out to me on **[LinkedIn](https://www.linkedin.com/in/jennifer-ramsey/)** if you know any.
 
 
 
