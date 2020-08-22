@@ -17,9 +17,9 @@ You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/
 ### **Here's what I used to do:**
 
 I have worked as:
-  * operations at various companies,
-  * taught students K-12 in [SSFUSD](https://www.ssfusd.org/),
-  * worked in retail
+  * Operations at various companies,
+  * Taught students K-12 in [SSFUSD](https://www.ssfusd.org/),
+  * Worked in retail
 
 
 ### **Here's what I've studied:**
