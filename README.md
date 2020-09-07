@@ -13,6 +13,8 @@ Here's my minimal portfolio; a list of my awesome projects - [Portfolio - Data S
 
 You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/jennylynnramz/)
 
+You can email me at <jennylynnramz@gmail.com>
+
 
 ### **Here's what I used to do:**
 
