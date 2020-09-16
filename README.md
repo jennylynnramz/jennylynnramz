@@ -11,10 +11,17 @@ Here's my resume! Send it to your friends! - [Jennifer Ramsey - Data Science - R
 
 Here's my portfolio; check out my awesome projects - [Portfolio - Data Science](https://jennylynnramz.com/)
 
-You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/jennylynnramz/)
+### **📫 How to reach me:**
+
+Connect and message me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/jennylynnramz/)
 
 You can email me at <jennylynnramz@gmail.com>
 
+### **🔭 I’m currently working on:**
+
+[Restaurant Health Score Data](http://jennylynnramz.com/RestaurantHealthScores/)
+
+ * Currently this includes data about restaurants in San Francisco, check back in the future for data from Las Vegas!
 
 ### **Here's what I used to do:**
 
@@ -27,8 +34,7 @@ I have worked:
 ### **Here's what I've studied:**
 
   * I completed a [Data Science Bootcamp](https://bootcamp.berkeley.edu/data/) from UC Berkeley Extension
-  * I graduated from [SFSU](https://www.sfsu.edu/) with MA in Human Sexuality
-  - You could read my [thesis](http://sfsu-dspace.calstate.edu/bitstream/handle/10211.3/203962/AS362018HMSXR36.pdf?sequence=1) if you wanted to.
+  * I graduated from [SFSU](https://www.sfsu.edu/) with MA in Human Sexuality. (You could read my [thesis](http://sfsu-dspace.calstate.edu/bitstream/handle/10211.3/203962/AS362018HMSXR36.pdf?sequence=1) if you wanted to.)
   * I graduated from [SFSU](https://www.sfsu.edu/) with BA in Pyschology
   * I graduated from [Cottey](https://cottey.edu/) with AS in Sociology
 
@@ -37,12 +43,12 @@ I have worked:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
