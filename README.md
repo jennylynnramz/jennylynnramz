@@ -9,7 +9,7 @@ I am Jennifer and I have worn many hats. I am passionate about **data science**.
 
 Here's my resume! Send it to your friends! - [Jennifer Ramsey - Data Science - Resume.pdf](https://github.com/jennylynnramz/Resume/blob/master/Jennifer%20Ramsey%20-%20Data%20Science%20-%20Resume.pdf)
 
-Here's my minimal portfolio; a list of my awesome projects - [Portfolio - Data Science](https://jennylynnramz.com/)
+Here's my portfolio; check out my awesome projects - [Portfolio - Data Science](https://jennylynnramz.com/)
 
 You can reach me on LinkedIn here - [LinkedIn Profile](https://www.linkedin.com/in/jennylynnramz/)
 
