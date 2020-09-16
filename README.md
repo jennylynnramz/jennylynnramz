@@ -28,6 +28,7 @@ I have worked:
 
   * I completed a [Data Science Bootcamp](https://bootcamp.berkeley.edu/data/) from UC Berkeley Extension
   * I graduated from [SFSU](https://www.sfsu.edu/) with MA in Human Sexuality
+  - You could read my [thesis](http://sfsu-dspace.calstate.edu/bitstream/handle/10211.3/203962/AS362018HMSXR36.pdf?sequence=1) if you wanted to.
   * I graduated from [SFSU](https://www.sfsu.edu/) with BA in Pyschology
   * I graduated from [Cottey](https://cottey.edu/) with AS in Sociology
 
