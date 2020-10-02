@@ -22,6 +22,7 @@ You can email me at <jennylynnramz@gmail.com>
 [Restaurant Health Score Data](http://jennylynnramz.com/RestaurantHealthScores/)
 
  * Currently this includes data about restaurants in San Francisco, check back in the future for data from Las Vegas!
+ * If you have a lead on cities who publish this data, send me a message!
 
 ### **Here's what I used to do:**
 
