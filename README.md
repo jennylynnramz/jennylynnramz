@@ -19,7 +19,7 @@ You can email me at <jennylynnramz@gmail.com>
 
 I'm also on [HackerOne](https://hackerone.com/jennylynnramz) and [HackerRank](https://www.hackerrank.com/jennylynnramz)
 
-[Duolingo](https://www.duolingo.com/profile/JennyLynnramz), too if you're into that kind of things. (Check out my 365+ day streak!)
+[Duolingo](https://www.duolingo.com/profile/JennyLynnramz), too if you're into that kind of thing. (Check out my 365+ day streak!)
 
 ### **🔭 I’m currently working on:**
 
