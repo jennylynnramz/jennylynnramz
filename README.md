@@ -17,9 +17,9 @@ Connect and message me on LinkedIn here - [LinkedIn Profile](https://www.linkedi
 
 You can email me at <jennylynnramz@gmail.com>
 
-I'm also on [HackerOne](https://hackerone.com/jennylynnramz) and [HackerRank](https://www.hackerrank.com/jennylynnramz)
+I'm also on [HackerOne](https://hackerone.com/jennylynnramz/badges?type=user) and [HackerRank](https://www.hackerrank.com/jennylynnramz)
 
-[Duolingo](https://www.duolingo.com/profile/JennyLynnramz), too if you're into that kind of thing. (Check out my 365+ day streak!)
+[Duolingo](https://www.duolingo.com/profile/JennyLynnramz), too if you're into that kind of thing. (Check out my 425+ day streak!)
 
 ### **🔭 I’m currently working on:**
 
@@ -31,7 +31,7 @@ I'm also on [HackerOne](https://hackerone.com/jennylynnramz) and [HackerRank](ht
 ### **Here's what I used to do:**
 
 I have worked:
-  * Operations at various companies
+  * Operations & Reception at various companies
   * Teaching students K-12 in [SSFUSD](https://www.ssfusd.org/)
   * Retail management for [Walgreens](https://www.walgreens.com/)
 
