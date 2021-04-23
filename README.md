@@ -5,7 +5,7 @@
 
 ### **About me:**
 
-I am Jennifer and I have worn many hats. I am passionate about **data science**.
+I am Jennifer and I have worn many hats. I am passionate about **data**.
 
 Here's my resume! Send it to your friends! - [Jennifer Ramsey - Data Science - Resume.pdf](https://github.com/jennylynnramz/Resume/blob/master/Jennifer%20Ramsey%20-%20Data%20Science%20-%20Resume.pdf)
 
@@ -25,7 +25,7 @@ I'm also on [HackerOne](https://hackerone.com/jennylynnramz/badges?type=user) an
 
 [Restaurant Health Score Data](http://jennylynnramz.com/RestaurantHealthScores/)
 
- * Currently this includes data about restaurants in San Francisco, check back in the future for data from Las Vegas!
+ * Currently this includes data about restaurants in San Francisco & Las Vegas!
  * If you have a lead on cities who publish this data, send me a message!
 
 ### **Here's what I used to do:**
@@ -39,9 +39,9 @@ I have worked:
 ### **Here's what I've studied:**
 
   * I completed a [Data Science Bootcamp](https://bootcamp.berkeley.edu/data/) from UC Berkeley Extension
-  * I graduated from [SFSU](https://www.sfsu.edu/) with MA in Human Sexuality. (You could read my [thesis](http://sfsu-dspace.calstate.edu/bitstream/handle/10211.3/203962/AS362018HMSXR36.pdf?sequence=1) if you wanted to.)
-  * I graduated from [SFSU](https://www.sfsu.edu/) with BA in Pyschology
-  * I graduated from [Cottey](https://cottey.edu/) with AS in Sociology
+  * I graduated from [SFSU](https://www.sfsu.edu/) in San Francisco with MA in Human Sexuality. (You could read my [thesis](http://sfsu-dspace.calstate.edu/bitstream/handle/10211.3/203962/AS362018HMSXR36.pdf?sequence=1) if you wanted to.)
+  * I graduated from [SFSU](https://www.sfsu.edu/) in San Francisco with BA in Pyschology
+  * I graduated from [Cottey College](https://cottey.edu/) in Nevada, Missouri with AS in Sociology
 
 <!--
 **jennylynnramz/jennylynnramz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
